@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'mmdriley'
 
 theme = 'paper'
+# others to consider:
+#  https://github.com/alex-shpak/hugo-book
+#  https://github.com/luizdepra/hugo-coder
 
 [params]
 name = 'Matthew Riley'
