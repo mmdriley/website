@@ -29,9 +29,6 @@ jobs:
         with:
           path: public/
 
-      - name: Publish to Pages
-        uses: actions/deploy-pages@v1.0.8
-
 
   publish:
     needs: build
