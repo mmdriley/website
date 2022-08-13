@@ -1,0 +1,9 @@
+baseURL = 'https://mmdriley.github.io/website/'
+languageCode = 'en-us'
+title = 'mmdriley'
+
+theme = 'paper'
+
+[params]
+name = 'Matthew Riley'
+
